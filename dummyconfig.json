@@ -1,0 +1,20 @@
+{
+ "timeSpan": {
+		"weekly": {
+			"bar": 4,
+			"trend": 56
+		},
+		"monthly": {
+			"bar": 3,
+			"trend": 18
+		},
+		"quarterly": {
+			"bar": 2,
+			"trend": 8
+		},
+		"yearly": {
+			"bar": 1,
+			"trend": 10
+		}
+	}
+}
