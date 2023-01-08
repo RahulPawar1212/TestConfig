@@ -17,4 +17,5 @@
 			"trend": 10
 		}
 	}
-}\weeklyy
+}
+pytest==5.3.3
